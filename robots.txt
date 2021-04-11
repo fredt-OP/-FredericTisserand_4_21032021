@@ -1,3 +1,5 @@
 user-Agent: *
 Sitemap: https://fredt-op.github.io/FredericTisserand_4_21032021/sitemap.xml
-Allow: /*
+Allow: /
+Disallow: /js/
+Disallow: /includes/
